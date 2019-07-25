@@ -1,0 +1,30 @@
+geometry\_analysis.tests package
+================================
+
+Submodules
+----------
+
+geometry\_analysis.tests.test\_geometry\_analysis module
+--------------------------------------------------------
+
+.. automodule:: geometry_analysis.tests.test_geometry_analysis
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+geometry\_analysis.tests.test\_measure module
+---------------------------------------------
+
+.. automodule:: geometry_analysis.tests.test_measure
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+
+Module contents
+---------------
+
+.. automodule:: geometry_analysis.tests
+   :members:
+   :undoc-members:
+   :show-inheritance:
