@@ -1,0 +1,14 @@
+name: docs
+channels:
+dependencies:
+    # Base depends
+  - python
+  - pip
+
+    # Other dependencies
+  - numpy
+
+    # Pip-only installs
+  #- pip:
+  #  - codecov
+

@@ -5,11 +5,15 @@
 
 Welcome to geometry_analysis's documentation!
 =========================================================
+This module contains a molecule class. You initialize the molecule with
+names and coordinates, and a bond list is built based on distance
+between atoms.
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
+   usage/quickstart
 
 
 Indices and tables
